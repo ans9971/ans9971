@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ans9971)](https://github.com/ans9971/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ans9971&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ans9971&layout=compact)](https://github.com/ans9971/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ans9971&layout=compact&theme=radical)](https://github.com/ans9971/github-readme-stats)
 
 <div align=center><h1>📚 STUDY STACKS</h1></div>
 <div align=center> 
